@@ -13,7 +13,7 @@
 
 <a href="mailto:guyhass02@gmail.com"><img src="https://img.shields.io/badge/-guyhass02@gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/guy-hass"><img src="https://img.shields.io/badge/-LinkedIn-39FF14?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" /></a>
-<a href="https://github.com/naknik3"><img src="https://img.shields.io/badge/-GitHub-008F11?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117" /></a>
+
 
 <br><br>
 
