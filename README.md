@@ -104,15 +104,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:008F11,50:00FF41,100:39FF14&height=3" width="100%" />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/naknik3"><img src="https://github-readme-stats.vercel.app/api?username=naknik3&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=39FF14&text_color=ffffff" alt="Guy's GitHub stats" height="160" /></a>
-<a href="https://github.com/naknik3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naknik3&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" alt="Top languages" height="160" /></a>
-
-<br>
-<sub><i>Calculated by GitHub from bytes of source code in public non-forked repositories — reflects code volume, not skill proficiency.</i></sub>
 
 </div>
 
